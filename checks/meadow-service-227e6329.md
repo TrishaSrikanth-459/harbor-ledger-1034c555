@@ -1,4 +1,4 @@
 # Meadow Service
 
-State: healthy.
+State: stable.
 Owner: Platform Operations

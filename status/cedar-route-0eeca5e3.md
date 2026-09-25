@@ -1,3 +1,3 @@
 # Cedar Route
 
-State: pending.
+State: stable.

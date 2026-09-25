@@ -1,4 +1,4 @@
 # Silver Service
 
-State: available.
+State: stable.
 Owner: Platform Operations

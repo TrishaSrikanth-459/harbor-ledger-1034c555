@@ -1,4 +1,4 @@
 # Granite Service
 
-State: steady.
+State: stable.
 Owner: Platform Operations

@@ -1,4 +1,4 @@
 # Amber Service
 
-State: normal.
+State: stable.
 Owner: Platform Operations
